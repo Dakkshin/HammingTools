@@ -1,0 +1,16 @@
+{
+  "name": "hamming-systems-marketplace",
+  "owner": {
+    "name": "Dax",
+    "email": "dakkshin161@gmail.com"
+  },
+  "metadata": {
+    "description": "Marketplace for systems engineering tools inspired by Richard W. Hamming."
+  },
+  "plugins": [
+    {
+      "name": "hamming-systems-auditor",
+      "source": "./plugins/hamming-systems-auditor"
+    }
+  ]
+}
