@@ -1,24 +1,28 @@
 # Hamming Systems Marketplace
+---
 
-A curated marketplace of Claude Code plugins for systems engineering and design analysis, inspired by Richard W. Hamming's principles of rigorous systems thinking.
+A curated marketplace of Claude Code plugins for systems engineering, inspired by Richard Hamming’s approach to rigorous systems thinking.  
 
-## 📦 Available Plugins
+## Plugin
+---
 
-### 🔍 Hamming Systems Auditor
-A comprehensive systems engineering audit tool that performs structured analysis following Hamming's methodology:
-- System boundary definition
-- Interaction analysis  
-- Failure mode identification
-- Redundancy planning
-- Trade-off analysis
-- Long-term evolution planning
+### Hamming Systems Auditor
+Perform structured systems audits with Hamming-inspired methodology:  
 
-**Command:** `/audit-system`
+- Define system boundaries  
+- Analyze interactions  
+- Identify failure modes  
+- Plan redundancies  
+- Evaluate trade-offs  
+- Forecast long-term evolution  
 
-## 🚀 Installation
+**Command:** `/audit-system`  
 
-### Option 1: Add Marketplace (Recommended)
-# Add this marketplace to Claude
+## Installation
+---
+
+```bash
+# Add the marketplace
 claude plugin marketplace add Dakkshin/hamming-systems-marketplace
 
 # Install the auditor plugin
