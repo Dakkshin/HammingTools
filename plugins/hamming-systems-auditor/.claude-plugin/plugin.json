@@ -1,5 +1,5 @@
 {
-  "name": "hamming-systems-auditor",
+  "name": "hamming-systems",
   "description": "Run a Hamming-style systems engineering audit: boundaries, interactions, failure modes, redundancy, trade-offs, and long-term evolution planning.",
   "version": "1.0.0",
   "author": {
