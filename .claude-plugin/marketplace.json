@@ -1,5 +1,5 @@
 {
-  "name": "hamming-systems-marketplace",
+  "name": "HammingTools",
   "owner": {
     "name": "Dax",
     "email": "dakkshin161@gmail.com"
@@ -9,8 +9,8 @@
   },
   "plugins": [
     {
-      "name": "hamming-systems-auditor",
-      "source": "./plugins/hamming-systems-auditor"
+      "name": "hamming-systems",
+      "source": "./plugins/hamming-systems"
     }
   ]
 }

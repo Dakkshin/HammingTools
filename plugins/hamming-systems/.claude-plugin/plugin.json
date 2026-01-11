@@ -1,0 +1,18 @@
+{
+  "name": "hamming-systems",
+  "description": "Structured systems engineering audit tools inspired by Richard W. Hamming's principles of rigorous systems thinking.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Dax",
+    "email": "dakkshin161@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": ["systems-engineering", "systems-thinking", "audit", "reliability", "design", "hamming"],
+  "commands": {
+    "audit-system": {
+      "title": "Audit a system with Hamming-style systems engineering",
+      "description": "Perform a structured systems engineering audit following Richard W. Hamming's principles.",
+      "source": "./commands/audit-system.md"
+    }
+  }
+}

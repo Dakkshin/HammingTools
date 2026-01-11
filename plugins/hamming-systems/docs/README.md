@@ -1,4 +1,4 @@
-# Hamming Systems Auditor (Claude Code Plugin)
+# HammingTools - Systems Auditor (Claude Code Plugin)
 
 A Claude Code plugin for rigorous systems engineering analysis inspired by
 Richard W. Hamming's *Systems Engineering*.
